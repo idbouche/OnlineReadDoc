@@ -1,9 +1,12 @@
 Pages:
 - login page (google, outlook)
+- singup page
 - profile page
 - documents page (search)
 - uplaod files page
 - page create documents
 - page show documents created
+- page add client
+- page show client created
 - dashboard page
 - administration panel
